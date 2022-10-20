@@ -1,0 +1,76 @@
+.shadow {
+  -webkit-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.75);
+}
+
+.splashPage1 {
+  background: url(./apartment.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-width:2px;
+  border-bottom-style:solid;
+  height: 410px;
+  width: 100%;
+  padding-top: 320px;
+  z-index: 300px;
+
+}
+
+.splashPage2 {
+  background: url(./splash2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 410px;
+  width: 100%;
+}
+
+.logo {
+  background-color: #e7e6ec;
+  border: solid;
+  border-width: 2px;
+  height: 180px;
+  width: 250px;
+  border-radius: 0px;
+  margin-left: 40%;
+  margin-right: 49%;
+  position: absolute;
+}
+
+.centerLogo{
+  font-family: 'Special Elite', cursive;
+  margin-left: 10%;
+  margin-right: 25%;
+  padding-top: 35px;
+}
+
+.enterButton{
+  font-family: 'Special Elite', cursive;
+  margin-left: 30%;
+  margin-right: 25%;
+  padding-top: 20px;
+}
+
+.App {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.dashboard{
+  margin: 0;
+  padding: 0;
+}
+
+.pnlPage{
+margin: 150px 300px 200px 300px;
+
+}
+
+.editProp{
+  margin: 10px;
+}
+
+.navFont{
+  font-family: 'Special Elite', cursive;
+}
